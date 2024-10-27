@@ -8,7 +8,7 @@ Implemented collision detection for disk-disk and disk-wall interactions, with p
 Frame de la simulación. 
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ac5a43b0-1232-4195-a71a-2c93a616cc69)
 
 Resultado tras una ejecución del programa.
 Nota: para mejores resultados correr la simulación por más tiempo o disminuir la altencia entre colisiones para observar el comportamiento en forma de 'W' del histograma. 
